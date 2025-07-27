@@ -1,4 +1,4 @@
-# 💼 Salary Prediction Web App
+# 💼 Salary Prediction 
 
 This project predicts a user's salary based on their **country**, **race**, **education level**, and **years of experience** using a trained machine learning regression model. The application is built with **Streamlit** for an interactive web interface and **Scikit-learn** for machine learning.
 
