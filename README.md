@@ -10,11 +10,7 @@ This project predicts a user's salary based on their **country**, **race**, **ed
 - [📊 Dataset](#-dataset)
 - [🧠 Model and Approach](#-model-and-approach)
 - [🌐 Streamlit Application](#-streamlit-application)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Installation & Usage](#-installation--usage)
-- [📸 Screenshots](#-screenshots)
-- [🔮 Future Improvements](#-future-improvements)
-- [📄 License](#-license)
+
 
 ---
 
